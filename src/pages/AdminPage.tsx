@@ -17,7 +17,6 @@ export function AdminPage() {
       <div className="flex justify-center">
         <Link
           to="/display"
-          target="_blank"
           className="flex items-center gap-2 rounded-lg bg-indigo-600 px-6 py-3 text-white hover:bg-indigo-700"
         >
           <Monitor className="h-5 w-5" />
